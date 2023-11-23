@@ -10,24 +10,24 @@ Exercitar os comandos utilizados para realizar uma rotina de trabalho com corre�
 
 #### 1 . Um dos integrantes deve:
 
--[ ] Crie uma bifurcação do repositório.
+- [ ] Crie uma bifurcação do repositório.
 
 ### Criado uma bifurcação do projeto e gerenciando as tarefas
 
 #### 2 . A atividade consiste em criar uma bifurcação do repositório para corrigir a tabuada de 0 a 10, como devem surgir conflitos, corrigir os conflitos e reorganizar o histórico para facilitar a compreensão da história do desenvolvimento dessa tabuada: 
 
--[ ] A equipe deve realizar uma bifurcação do repositório do integrante.
--[ ] Serão negociados entre todos quem ficará responsável por cada tarefa.
+- [ ] A equipe deve realizar uma bifurcação do repositório do integrante.
+- [ ] Serão negociados entre todos quem ficará responsável por cada tarefa.
 
 ### Ramificar as tarefas e mesclar as resoluções na main
 
 ##### 3 . Após realizar a bifurcação, a equipe deverá:
 
--[ ] Criar uma ramificação com o código identificador da tarefa.
--[ ] Realizar a tarefa.
--[ ] Mesclar a tarefa com a branch main.
--[ ] Criar um tópico issue descrevendo a contribuição no repositório do integrante responsável. 
--[ ] Enviar os ajustes para o repositório do integrante responsável, associando o pedido com o tópico criado anteriormente.
+- [ ] Criar uma ramificação com o código identificador da tarefa.
+- [ ] Realizar a tarefa.
+- [ ] Mesclar a tarefa com a branch main.
+- [ ] Criar um tópico issue descrevendo a contribuição no repositório do integrante responsável. 
+- [ ] Enviar os ajustes para o repositório do integrante responsável, associando o pedido com o tópico criado anteriormente.
 
 ## Lista de tarefas
 
